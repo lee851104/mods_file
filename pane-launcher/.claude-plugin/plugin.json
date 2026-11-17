@@ -1,0 +1,5 @@
+{
+  "name": "pane-launcher",
+  "version": "0.3.0",
+  "description": "A slim column beside the band above the prompt, one button per pane-opening slash command from your mods"
+}

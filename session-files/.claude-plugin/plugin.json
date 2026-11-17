@@ -1,0 +1,1 @@
+{ "name": "session-files", "version": "0.12.0", "description": "A pane listing the files each round of the conversation made, minor ones hidden, each one a click from File Explorer", "types": "./types/index.d.ts" }

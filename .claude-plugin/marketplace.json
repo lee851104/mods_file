@@ -1,0 +1,16 @@
+{
+  "name": "mods-file",
+  "owner": { "name": "lee851104" },
+  "plugins": [
+    {
+      "name": "session-files",
+      "source": "./session-files",
+      "description": "右側面板：依問答輪次列出這個對話製作的檔案，一鍵在檔案總管中顯示"
+    },
+    {
+      "name": "pane-launcher",
+      "source": "./pane-launcher",
+      "description": "輸入框上方的小圖示，一鍵開啟各個 mod 面板"
+    }
+  ]
+}
